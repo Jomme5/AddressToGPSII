@@ -19,7 +19,7 @@ Not taking some or all of these requirements may end up with a revealing error m
 
 # Faq:
 
-1. Why not just upload on Google Playstore? For now, I'm not an android-developer, and I don't have the intentions to be one. So an member fee of 25$ to distribute one tiny, free app on the play-store is not an option(unless you give me 25$)
+1. Why not just upload on Google Playstore? For now, I'm not an android-developer, and I don't have the intentions to be one. So a member fee of 25$ to distribute one tiny, free app on the play-store is not an option(unless you give me 25$)
 
 2. But can I trust you? No.
 
