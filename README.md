@@ -15,19 +15,19 @@ Because of Google tighter security measures; some steps has to be taken for succ
 
 4. Sometimes you have to uninstall the previous version of the app before you can succesfully install a newer version.
 
-Not taking one of these requirements ends up with a revealing error message 'app not installed.'
+Not taking some or all of these requirements may end up with a revealing error message 'app not installed.'
 
 # Faq:
 
-1. Why not just upload on Google Playstore? For now, I'm not a android-developer, and don't have the intentions to be one. So an member fee of 25$ to distribute one free app on play-store is not an option(unless you give me 25$)
+1. Why not just upload on Google Playstore? For now, I'm not an android-developer, and I don't have the intentions to be one. So an member fee of 25$ to distribute one tiny, free app on the play-store is not an option(unless you give me 25$)
 
 2. But can I trust you? No.
 
 3. Will the app be updated from time to time? If there are interesting suggestions, or there are issues, giving me detailed information(logcat) about the error, things will change.
 
-4. Why not opensource? First, I'm not experienced with github, second the app uses a api-key to gets it information from bingmaps. I don’t want the key to be used by other software without my knowledge.
+4. Why not opensource? First, I'm not experienced with github, second the app uses an api-key to gets it information from bingmaps. I don’t want the key to be used by other software without my knowledge.
 
-5. Because of your app I got lost, after three, they had to rescue me. So? No, like much other (free) software, are you fully responsible to use it AS IS. I don't take any responsibility concerning this app and its consequences using it.
+5. Because of your app I got lost, the rescue team found me after three days. So? No, like much other (free) software, you are fully responsible to use it AS IS. I don't take any responsibility concerning this app and its consequences using it.
 
 # Have fun
 
