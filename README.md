@@ -13,7 +13,7 @@ Because of Google tighter security measures; some steps has to be taken for succ
 
 2. You have to give permission to install from 'unknown sources' to the app who ignites the installation (e.g. file-explorer, browser,...)
 
-4. Sometimes you have to uninstall the previous version of the app before you can have a succesfull installation.
+4. Sometimes you have to uninstall the previous version of the app before you can succesfully install a newer version.
 
 Not taking one of these requirements ends up with a revealing error message 'app not installed.'
 
