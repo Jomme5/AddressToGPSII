@@ -2,6 +2,7 @@
 
 Specific address search is transformed to gps-coordinates and can accordingly be used by gps -or other aps that have poor address search support.(e.g. Osmand)
 Address-search is based on Bing-maps(Microsoft)
+The idea is based on Daniel's Barett AddressToGPS that lately has issues concerning look-up. (https://github.com/DanielBarnett714/AddressToGPS)
 
 Platforms: Android
 
@@ -16,6 +17,10 @@ Because of Google tighter security measures; some steps has to be taken for succ
 4. Sometimes you have to uninstall the previous version of the app before you can succesfully install a newer version.
 
 Not taking some or all of these requirements may end up with a revealing error message 'app not installed.'
+
+# How to use?
+
+Type in an address, place or city. You'll get a list of results where you can chose from. A short press on the item, will open up a menu of geographical apps for further processing, a long press on the item will copy the coordinates in to the clipboard.
 
 # Faq:
 
