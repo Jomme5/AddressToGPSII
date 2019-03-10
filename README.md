@@ -26,13 +26,11 @@ Type in an address, place or city. You'll get a list of results where you can ch
 
 1. Why not just upload on Google Playstore? For now, I'm not an android-developer, and I don't have the intentions to be one. So a member fee of 25$ to distribute one tiny, free app on the play-store is not an option(unless you give me 25$)
 
-2. But can I trust you? No.
+2. Will the app be updated from time to time? If there are interesting suggestions, or there are issues, giving me detailed information(logcat) about the error, things will change.
 
-3. Will the app be updated from time to time? If there are interesting suggestions, or there are issues, giving me detailed information(logcat) about the error, things will change.
+3. Why not opensource? First, I'm not experienced with github, second the app uses an api-key to gets it information from bingmaps. I don’t want the key to be used by other software without my knowledge.
 
-4. Why not opensource? First, I'm not experienced with github, second the app uses an api-key to gets it information from bingmaps. I don’t want the key to be used by other software without my knowledge.
-
-5. Because of your app I got lost, the rescue team found me after three days. So? No, like much other (free) software, you are fully responsible to use it AS IS. I don't take any responsibility concerning this app and its consequences using it.
+5. Like much other (free) software, you are fully responsible to use it AS IS. I don't take any responsibility concerning this app and its consequences using it.
 
 # Have fun
 
