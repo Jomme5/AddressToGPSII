@@ -1,6 +1,6 @@
 # Update april 2019:
 
-The api-key was publicly accessabel because of unsafe communication with server. Because of this, the current API-key will be disabled from 04/10/2019. Apps older than version 1.3 won't work anymore. You can download the latest version under 'release.' Don't forget to uninstall the older version first, before installing the latest app.
+The api-key was publicly accessabel because of unsafe communication with server. Because of this, the current API-key will be disabled from 04/10/2019 onwards. Apps older than version 1.3 won't work anymore. You can download the latest version under 'release.' Don't forget to uninstall the older version first, before installing the latest app.
 
 
 # AddressToGPSII
