@@ -29,7 +29,7 @@ Type in an address, place or city. You'll get a list of results where you can ch
 
 # Faq:
 
-1. Why not just upload on Google Playstore? For now, I'm not an android-developer, and I don't have the intentions to be one. So a member fee of 25$ to distribute one tiny, free app on the play-store is not an option(unless you give me 25$ on paypal.me/jomme5 ) Thank you!
+1. Why not just upload on Google Playstore? For now, I'm not an android-developer, and I don't have the intentions to be one. So a member fee of 25$ to distribute one tiny, free app on the play-store is not an option(unless you give me 25$ on **_paypal.me/jomme5_** ) Thank you!
 
 2. Will the app be updated from time to time? If there are interesting suggestions, or there are issues, giving me detailed information(logcat) about the error, things will change.
 
