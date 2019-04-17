@@ -37,5 +37,9 @@ Type in an address, place or city. You'll get a list of results where you can ch
 
 5. Like much other (free) software, you are fully responsible to use it AS IS. I don't take any responsibility concerning this app and its consequences using it.
 
+# Privacy: 
+
+No personal user-data, usage-data or tracking-data is collected by the app itself. 
+
 # Have fun
 
