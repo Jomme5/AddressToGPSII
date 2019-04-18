@@ -1,10 +1,10 @@
 # Update april 2019:
 
-The api-key was publicly accessabel due to unsafe communication with server. Because of this, the current API-key will be disabled from 04/10/2019 onwards. Apps older than version 1.3 won't work anymore. You can download the latest version under 'release.' Don't forget to uninstall the older version first, before installing the latest app. 
+The api-key was publicly accessible due to unsafe communication with server. Because of this, the current API-key will be disabled from 04/10/2019 onward. Apps older than version 1.3 won't work anymore. You can download the latest version under 'release.' Don't forget to uninstall the older version first, before installing the latest app. 
 You can get this app on the playstore for a small fee of 0.6€/0.7$ In this case you will always have the latest version.
 
 
-# AddressToGPSII
+# AddressToGPS II
 
 Specific address search is transformed to gps-coordinates and can accordingly be used by gps -or other aps that have poor address search support.(e.g. Osmand)
 Address-search is based on Bing-maps(Microsoft)
@@ -31,11 +31,10 @@ Type in an address, place or city. You'll get a list of results where you can ch
 # Faq:
 1. Will the app be updated from time to time? If there are interesting suggestions, or there are issues, giving me detailed information(logcat) about the error, things will change.
 
-2. Direct or inderect consequenes of using this app falls under the responsibility of the user.
+2. Direct or indirect consequences of using this app falls under the responsibility of the user.
 
 # Privacy: 
 
 No personal user-data, usage-data or tracking-data is collected by the app itself. 
 
 # Have fun
-
