@@ -1,7 +1,7 @@
 # Update april 2019:
 
 The api-key was publicly accessible due to unsafe communication with server. Because of this, the current API-key will be disabled from 04/10/2019 onward. Apps older than version 1.3 won't work anymore. You can download the latest version under 'release.' Don't forget to uninstall the older version first, before installing the latest app. 
-You can get this app on the playstore for a small fee of 0.6€/0.7$ In this case you will always have the latest version.
+You can get this app also on the playstore for a small fee of 0.6€/0.7$ In this case you will always have the latest version.
 
 
 # AddressToGPS II
