@@ -1,6 +1,7 @@
 # Update april 2019:
 
-The api-key was publicly accessabel due to unsafe communication with server. Because of this, the current API-key will be disabled from 04/10/2019 onwards. Apps older than version 1.3 won't work anymore. You can download the latest version under 'release.' Don't forget to uninstall the older version first, before installing the latest app.
+The api-key was publicly accessabel due to unsafe communication with server. Because of this, the current API-key will be disabled from 04/10/2019 onwards. Apps older than version 1.3 won't work anymore. You can download the latest version under 'release.' Don't forget to uninstall the older version first, before installing the latest app. 
+You can get this app on the playstore for a small fee of 0.6€/0.7$ In this case you will always have the latest version.
 
 
 # AddressToGPSII
@@ -28,14 +29,9 @@ Not taking some or all of these requirements may end up with a revealing error m
 Type in an address, place or city. You'll get a list of results where you can chose from. A short press on the item, will open up a menu of geographical apps for further processing, a long press on the item will copy the coordinates in to the clipboard.
 
 # Faq:
+1. Will the app be updated from time to time? If there are interesting suggestions, or there are issues, giving me detailed information(logcat) about the error, things will change.
 
-1. Why not just upload on Google Playstore? For now, I'm not an android-developer, and I don't have the intentions to be one. So a member fee of 25$ to distribute one tiny, free app on the play-store is not an option(unless you give me 25$ on **_paypal.me/jomme5_** ) Thank you!
-
-2. Will the app be updated from time to time? If there are interesting suggestions, or there are issues, giving me detailed information(logcat) about the error, things will change.
-
-3. Why not opensource? First, I'm not experienced with github, second the app uses an api-key to gets it information from bingmaps. I don’t want the key to be used by other software without my knowledge.
-
-5. Like much other (free) software, you are fully responsible to use it AS IS. I don't take any responsibility concerning this app and its consequences using it.
+2. Direct or inderect consequenes of using this app falls under the responsibility of the user.
 
 # Privacy: 
 
