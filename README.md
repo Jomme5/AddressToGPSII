@@ -1,3 +1,11 @@
+#update may 2019:
+
+From now  o; new versions will be only available on Google Playstore for a small fee of 0.6€/0.7$ If you already installed it from whatever source, no extra payments are needed. The app will update as normal. 
+The possibility to download from here or Amazon-app-store will be ended.
+Google playstore: search: "address to gps" or "osmand address search" or something similar. 
+If you can't find it, maybe your phone-version is not compatible with the app. You can check this out by using a direct link: 
+https://play.google.com/store/apps/details?id=com.cornmo.co_osm.co_osm&hl=en
+
 # Update april 2019:
 
 The api-key was publicly accessible due to unsafe communication with server. Because of this, the current API-key will be disabled from 04/10/2019 onward. Apps older than version 1.3 won't work anymore. You can download the latest version under 'release.' Don't forget to uninstall the older version first, before installing the latest app. 
