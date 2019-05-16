@@ -1,4 +1,4 @@
-#update may 2019:
+# Update may 2019:
 
 From now  o; new versions will be only available on Google Playstore for a small fee of 0.6€/0.7$ If you already installed it from whatever source, no extra payments are needed. The app will update as normal. 
 The possibility to download from here or Amazon-app-store will be ended.
