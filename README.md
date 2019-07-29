@@ -1,4 +1,4 @@
-Update june, july and august 2019
+# Update june, july and august 2019
 
 More updates have been done and are ahead. Sinds the end of july, the backbone-service isn't no longer Bing, but Google. They were issue's retrieving data in some countries, ending up with 'no data :(' errors. There will be extra functionality in the update of august. 
 
